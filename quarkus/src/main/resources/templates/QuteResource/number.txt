@@ -1,0 +1,1 @@
+{numbers:number(ext:formatNumber(view.number))}
